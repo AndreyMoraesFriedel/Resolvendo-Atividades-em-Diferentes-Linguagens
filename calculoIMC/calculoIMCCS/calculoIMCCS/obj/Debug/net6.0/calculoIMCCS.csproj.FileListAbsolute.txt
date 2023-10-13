@@ -1,0 +1,15 @@
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\bin\Debug\net6.0\calculoIMCCS.exe
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\bin\Debug\net6.0\calculoIMCCS.deps.json
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\bin\Debug\net6.0\calculoIMCCS.runtimeconfig.json
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\bin\Debug\net6.0\calculoIMCCS.dll
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\bin\Debug\net6.0\calculoIMCCS.pdb
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.csproj.AssemblyReference.cache
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.AssemblyInfoInputs.cache
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.AssemblyInfo.cs
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.dll
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\refint\calculoIMCCS.dll
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.pdb
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\calculoIMCCS.genruntimeconfig.cache
+D:\MeusProjetosVS\calculoIMCCS\calculoIMCCS\obj\Debug\net6.0\ref\calculoIMCCS.dll
