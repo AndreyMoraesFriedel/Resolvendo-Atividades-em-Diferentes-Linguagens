@@ -1,0 +1,15 @@
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.csproj.AssemblyReference.cache
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.AssemblyInfoInputs.cache
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.AssemblyInfo.cs
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\bin\Debug\net6.0\fatorialFuncaoCS.exe
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\bin\Debug\net6.0\fatorialFuncaoCS.deps.json
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\bin\Debug\net6.0\fatorialFuncaoCS.runtimeconfig.json
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\bin\Debug\net6.0\fatorialFuncaoCS.dll
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\bin\Debug\net6.0\fatorialFuncaoCS.pdb
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.dll
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\refint\fatorialFuncaoCS.dll
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.pdb
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\fatorialFuncaoCS.genruntimeconfig.cache
+D:\MeusProjetosVS\fatorialFuncaoCS\fatorialFuncaoCS\obj\Debug\net6.0\ref\fatorialFuncaoCS.dll
