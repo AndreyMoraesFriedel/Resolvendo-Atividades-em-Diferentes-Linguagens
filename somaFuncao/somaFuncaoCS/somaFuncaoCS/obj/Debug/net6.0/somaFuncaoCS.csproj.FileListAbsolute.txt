@@ -1,0 +1,15 @@
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\bin\Debug\net6.0\somaFuncaoCS.exe
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\bin\Debug\net6.0\somaFuncaoCS.deps.json
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\bin\Debug\net6.0\somaFuncaoCS.runtimeconfig.json
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\bin\Debug\net6.0\somaFuncaoCS.dll
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\bin\Debug\net6.0\somaFuncaoCS.pdb
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.csproj.AssemblyReference.cache
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.AssemblyInfoInputs.cache
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.AssemblyInfo.cs
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.dll
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\refint\somaFuncaoCS.dll
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.pdb
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\somaFuncaoCS.genruntimeconfig.cache
+D:\MeusProjetosVS\somaFuncaoCS\somaFuncaoCS\obj\Debug\net6.0\ref\somaFuncaoCS.dll
