@@ -1,0 +1,15 @@
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\bin\Debug\net6.0\verificarParImparCS.exe
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\bin\Debug\net6.0\verificarParImparCS.deps.json
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\bin\Debug\net6.0\verificarParImparCS.runtimeconfig.json
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\bin\Debug\net6.0\verificarParImparCS.dll
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\bin\Debug\net6.0\verificarParImparCS.pdb
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.csproj.AssemblyReference.cache
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.AssemblyInfoInputs.cache
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.AssemblyInfo.cs
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.dll
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\refint\verificarParImparCS.dll
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.pdb
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\verificarParImparCS.genruntimeconfig.cache
+D:\MeusProjetosVS\verificarParImparCS\verificarParImparCS\obj\Debug\net6.0\ref\verificarParImparCS.dll
