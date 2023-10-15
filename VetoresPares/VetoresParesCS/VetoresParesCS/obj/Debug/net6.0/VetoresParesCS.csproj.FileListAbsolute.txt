@@ -1,0 +1,15 @@
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.csproj.AssemblyReference.cache
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.AssemblyInfoInputs.cache
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.AssemblyInfo.cs
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\bin\Debug\net6.0\VetoresParesCS.exe
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\bin\Debug\net6.0\VetoresParesCS.deps.json
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\bin\Debug\net6.0\VetoresParesCS.runtimeconfig.json
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\bin\Debug\net6.0\VetoresParesCS.dll
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\bin\Debug\net6.0\VetoresParesCS.pdb
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.dll
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\refint\VetoresParesCS.dll
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.pdb
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\VetoresParesCS.genruntimeconfig.cache
+D:\MeusProjetosVS\VetoresParesCS\VetoresParesCS\obj\Debug\net6.0\ref\VetoresParesCS.dll
